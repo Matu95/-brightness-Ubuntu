@@ -14,4 +14,4 @@ en caso de que el script no funcione pruebe modificando esta ruta por `/sys/clas
 
 * Otorgar permisos de ejecucion a los script `chmod +X upBrightness.sh downBrightness.sh`.
 
-###### Listo si desea puede asignar que los script a alguna combinacion de teclado 😉.
+###### Listo si desea puede asignar los script a alguna combinacion de teclado 😉.
